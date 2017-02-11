@@ -1,0 +1,26 @@
+module.exports = [{
+  make: 'Mazda',
+  name: 'Miata',
+  year: 2008,
+  trans: 'manual'
+}, {
+  make: 'Ford',
+  name: 'Escort',
+  year: 1993,
+  trans: 'automatic'
+}, {
+  make: 'BMW',
+  name: '2002',
+  year: 2008,
+  trans: 'manual'
+}, {
+  make: 'Jaguar',
+  name: 'XK7',
+  year: 1946,
+  trans: 'manual'
+}, {
+  make: 'Toyota',
+  name: 'Corolla',
+  year: 1982,
+  trans: 'automatic'
+}, ]
